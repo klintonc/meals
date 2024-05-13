@@ -1,0 +1,5 @@
+include: package:commitlint_cli/commitlint.yaml
+
+defaultIgnores: true
+ignores:
+  - r'^fixup'
